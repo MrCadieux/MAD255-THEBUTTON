@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">TheButton</string>
+    <string name="score">Score</string>
+    <string name="button">Button</string>
+    <string name="percent">% Percent</string>
+    <string name="screen_dimensions">Screen Dimensions</string>
+    <string name="red_button">Button</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="Directions">Welcome to TheButton Game!\n\n
+        The objective of the game is to click the button as many times as you can.
+        As the button moves around the screen it will begin to get smaller.
+        \n\nKeep your eye on the button or you may lose it!</string>
+    <string name="play_again_button">Play Again</string>
+</resources>
